@@ -26,3 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Mock-Up
+![](Assets/Screen%20Shot%202023-01-11%20at%2010.18.09%20PM.png)
+
+## Walkthrough Video
+https://user-images.githubusercontent.com/114713151/214208071-020dad80-6d61-40f0-9065-d51205064bdb.webm
